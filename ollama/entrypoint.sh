@@ -20,7 +20,6 @@ else
   echo "✅ Model already present — skipping pull."
 fi
 
-
 # Preload model into memory (warm-up)
 echo "🔥 Warming up model phi3:3.8b-mini-128k-instruct-q4_0..."
 curl -s -X POST http://localhost:11434/api/chat \

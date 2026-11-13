@@ -16,7 +16,7 @@ PyPDF2==3.0.1
 qdrant-client==1.7.0
 
 # === Chunking ===
-langchain==0.1.14
+langchain==0.1.20
 
 # === Clustering ===
 scikit-learn==1.4.2
